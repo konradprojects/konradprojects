@@ -103,6 +103,6 @@ W projekcie zastosowałem również migracje Entity Framework Core, własną kon
 
 ## Kontakt
 
-Najłatwiej skontaktować się ze mną poprzez LinkedIn lub mailowo:
+Najłatwiej skontaktować się ze mną mailowo:
 
 📧 [konrad.cieslak23@gmail.com](mailto:konrad.cieslak23@gmail.com)
